@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+chromadb
+sentence-transformers
+transformers
+sentencepiece
+streamlit
+requests
+python-dotenv
+groq
+torch
